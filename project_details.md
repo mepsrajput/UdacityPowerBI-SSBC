@@ -1,4 +1,4 @@
-<p>In this project, I have created a data model and Power BI report for Seven Sages Brewing Company that combines information from all over the company. This data model will make it possible for the company's CFO to quickly review and analyze what beers sell well and which ones generate the highest profitability.
+<p>In this project (Udacity Power BI Nanodegree - Project 1), I have created a data model and Power BI report for Seven Sages Brewing Company (hypothetical) that combines information from all over the company. This data model will make it possible for the company's CFO to quickly review and analyze what beers sell well and which ones generate the highest profitability.
 </p>
 
 ## The data model 
